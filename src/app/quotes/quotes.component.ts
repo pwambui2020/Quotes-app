@@ -6,7 +6,9 @@ import { Quote } from '../quote';
   templateUrl: './quotes.component.html',
   styleUrls: ['./quotes.component.css']
 })
+
 export class QuotesComponent implements OnInit {
+
   quotes = [
     new Quote("Life", "Elizabeth Gilbert", "Embrace the glorious mess that you are.", new  Date('2020/8/2')),
     new Quote("Friendship", "Posh Bobo", "If you lost, please find me. I got you", new  Date('2020/9/13')),
