@@ -19,6 +19,7 @@ newQuote: any;
   ngOnInit(): void {
   }
 onSubmit() {
+  
   var x= new Date(this.date)
   this.newQuote = new Quote(this.name, this.author,this.quote,x);
   this.emitQuote.emit(this.newQuote)
