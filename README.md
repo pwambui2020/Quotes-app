@@ -1,13 +1,14 @@
 ##  WONDERFUL QUOTES
 created by 
 ##
-PAULYNE WAMBUI 
+PAULYNE WAMBUI
 
 
 ## Description
 This wonderful application enables users to add  and delete quotes, like and dislike quotes and add the dates they were published.You are also able to see what was already there.
 
 ## Screenshot
+
 ![quotescreenshot](https://user-images.githubusercontent.com/69419673/94559756-5cb3ac80-026a-11eb-8e8a-65a803e185e0.png)
 
 ## Development server
@@ -32,7 +33,8 @@ The user is able to click and add to the name, author , quote and date. User is 
 
 ## Technologies Used
 
-Angular CLI
+* Angular CLI
+* bootstrap
 
 ## Known Bugs
 There are no known bugs currently. The page works as expected.
