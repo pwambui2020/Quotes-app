@@ -1,4 +1,8 @@
-## IP1 WONDERFUL QUOTES
+##  WONDERFUL QUOTES
+created by 
+##
+PAULYNE WAMBUI 
+
 
 ## Description
 This wonderful application enables users to add  and delete quotes, like and dislike quotes and add the dates they were published.You are also able to see what was already there.
